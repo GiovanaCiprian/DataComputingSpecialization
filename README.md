@@ -1,2 +1,0 @@
-# DataEngineeringSpecialization
-Duke University course
